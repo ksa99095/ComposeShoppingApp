@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">compose_kotlin</string>
+
+    <!-- ProductInfo -->
+    <string name="product_name">매일유업 매일우유 멸균우유 오리지널</string>
+    <string name="unit_price">24,000원</string>
+    <string name="amount">13,850원</string>
+    <string name="discount_rate">42%</string>
+    <string name="base_price">(100ml당 289원)</string>
+    <string name="shipping_type">택배 배송</string>
+    <string name="shipping_cost">배송비 3,000원(3만원 이상 무료)</string>
+    <string name="due_date">내일 14시부터 도착 가능</string>
+    <string name="card_benefit">카드 혜택가</string>
+    <string name="card_benefit_price">12,850원 ~</string>
+    <string name="check_card_company">카드사 확인</string>
+    <string name="coupon_sale">쿠폰 할인가</string>
+    <string name="coupon_sale_price">9,950원 ~</string>
+    <string name="check_coupon">쿠폰 확인</string>
+    <string name="event_name">[함께할인] 2개 담으면, 10% 할인(최대 50개까지 행사/할인 적용)</string>
+    <string name="event_period">(2022.10.01~2022.12.31)</string>
+
+    <!-- AppBar Title -->
+    <string name="title_product_info">상품 정보</string>
+    <string name="title_detail_image">상세 이미지</string>
+
+    <!-- Bottom Sheet -->
+    <string name="filter">필터</string>
+
+    <!-- Bottom TabBar -->
+    <string name="bottom_buy_now">바로 구매</string>
+    <string name="bottom_add_cart">장바구니 추가</string>
+
+    <!-- TabBar -->
+    <string name="tab_product_detail">상품 상세</string>
+    <string name="tab_review">상품평</string>
+
+    <!-- OtherProductInfo -->
+    <string name="req_product_info">상품필수정보</string>
+    <string name="etc_info">배송/교환/반품 안내</string>
+
+    <!-- ProductDetail -->
+    <string name="expand_product_detail">상세정보 더보기</string>
+    <string name="collapse_product_detail">상세정보 접기</string>
+
+    <!-- ProductReview -->
+    <string name="expand_review">상품평 더보기</string>
+    <string name="collapse_review">상품평 접기</string>
+
+    <!-- CustomDialog -->
+    <string name="dialog_title">바로 구매 버튼 클릭</string>
+    <string name="ok_btn">확인</string>
+
+    <!-- toast -->
+    <string name="toast_back_press_msg">\'뒤로\'버튼을 한번 더 누르시면 종료됩니다.</string>
+
+    <string name="toast_search_click_msg">검색 버튼 클릭</string>
+    <string name="toast_cart_click_msg">장바구니 버튼 클릭</string>
+    <string name="toast_card_click_msg">카드사 확인 클릭</string>
+    <string name="toast_coupon_click_msg">쿠폰 확인 클릭</string>
+    <string name="toast_product_info_click_msg">상품필수정보 클릭</string>
+    <string name="toast_etc_click_msg">배송/교환/반품 안내 클릭</string>
+
+</resources>
