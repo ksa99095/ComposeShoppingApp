@@ -16,7 +16,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import ksr.android.compose.R
-import ksr.android.compose.data.ReviewData
+import ksr.android.compose.model.ReviewData
 import ksr.android.compose.ui.theme.Gray_949494
 import ksr.android.compose.ui.theme.Gray_F2F2F2
 import ksr.android.compose.ui.theme.Primary

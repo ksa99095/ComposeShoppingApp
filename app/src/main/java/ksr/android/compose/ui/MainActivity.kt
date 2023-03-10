@@ -23,7 +23,7 @@ import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 import ksr.android.compose.R
 import ksr.android.compose.common.ToastUtil
-import ksr.android.compose.data.ReviewData
+import ksr.android.compose.model.ReviewData
 import ksr.android.compose.ui.theme.Compose_kotlinTheme
 import ksr.android.compose.ui.theme.White
 import ksr.android.compose.ui.view.*

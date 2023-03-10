@@ -1,4 +1,4 @@
-package ksr.android.compose.data
+package ksr.android.compose.model
 
 data class ReviewData(
     val rating: String,

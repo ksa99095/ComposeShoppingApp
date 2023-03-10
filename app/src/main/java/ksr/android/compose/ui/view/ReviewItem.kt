@@ -22,7 +22,7 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import ksr.android.compose.data.ReviewData
+import ksr.android.compose.model.ReviewData
 import ksr.android.compose.ui.ReviewImageActivity
 import ksr.android.compose.ui.theme.*
 

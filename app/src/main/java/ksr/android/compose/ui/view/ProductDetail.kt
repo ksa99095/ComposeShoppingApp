@@ -17,6 +17,7 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
+import kotlinx.coroutines.launch
 import ksr.android.compose.R
 import ksr.android.compose.ui.theme.Gray_F2F2F2
 import ksr.android.compose.ui.theme.White

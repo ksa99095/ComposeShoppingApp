@@ -17,7 +17,7 @@
     <string name="coupon_sale_price">9,950원 ~</string>
     <string name="check_coupon">쿠폰 확인</string>
     <string name="event_name">[함께할인] 2개 담으면, 10% 할인(최대 50개까지 행사/할인 적용)</string>
-    <string name="event_period">(2022.10.01~2022.12.31)</string>
+    <string name="event_period">(2023.03.01~2023.03.31)</string>
 
     <!-- AppBar Title -->
     <string name="title_product_info">상품 정보</string>
